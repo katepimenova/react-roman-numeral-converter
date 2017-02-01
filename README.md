@@ -1,6 +1,6 @@
 ##The Problem
 
-We need a function that will convert an integer into Roman Numerals.
+We need to create a "React" based application that will convert an integer into Roman Numerals.
 
 ## Demo
 
