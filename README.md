@@ -4,7 +4,7 @@ We need to create a "React" based application that will convert an integer into 
 
 ## Demo
 
-https://katepimenova.github.io/roman-numeral-converter/
+https://katepimenova.github.io/react-roman-numeral-converter/
 
 ## What is being used 
 
